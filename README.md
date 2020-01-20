@@ -1,3 +1,3 @@
 # Aplikasi-Penjualan
 
-lihat tampilannya disini https://youtu.be/x8i8qWcrJKY
+Saya mendapatkan source code ini dari internet dan sedikit mengubahnya dan sering terjadi error 
